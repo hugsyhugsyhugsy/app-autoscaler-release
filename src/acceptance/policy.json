@@ -1,0 +1,16 @@
+{
+  "instance_max_count": 2,
+  "instance_min_count": 1,
+  "scaling_rules": [
+    {
+      "adjustment": "+1",
+      "breach_duration_secs": 120,
+      "cool_down_secs": 120,
+      "metric_type": "throughput",
+      "operator": ">=",
+      "stat_window_secs": 120,
+      "threshold": 2
+    }
+  ]
+}
+

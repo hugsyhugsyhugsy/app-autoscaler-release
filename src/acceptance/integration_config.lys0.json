@@ -1,0 +1,12 @@
+{
+  "api": "api.stage0.eu-gb.bluemix.net",
+  "admin_user": "ibmadmin@us.ibm.com",
+  "admin_password": "uQk758qUZQghHX7YD0Mt",
+  "apps_domain": "stage0.eu-gb.mybluemix.net",
+  "skip_ssl_validation": true,
+  "use_http": true,
+  "service_name": "autoscaler",
+  "service_plan": "autoscaler-free-plan",
+  "aggregate_interval": 120,
+  "autoscaler_api": "autoscaler.stage0.eu-gb.bluemix.net"
+}

@@ -64,7 +64,7 @@ var defaults = Config{
 	SleepTimeout:                 30, // seconds
 	TimeoutScale:                 1.0,
 	ArtifactsDirectory:           filepath.Join("..", "results"),
-	NamePrefix:                   "ASATS",
+	NamePrefix:                   "CATS",
 
 	CfJavaTimeout:   10,  // minutes
 	NodeMemoryLimit: 128, // MB
